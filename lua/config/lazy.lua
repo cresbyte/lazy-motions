@@ -51,3 +51,6 @@ require("lazy").setup({
     },
   },
 })
+
+-- Load UV configuration
+require("config.uv")
